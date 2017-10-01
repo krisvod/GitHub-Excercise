@@ -1,3 +1,3 @@
 # GitHub-Excercise
 Hello World!
-Origin
+Merged Branches
